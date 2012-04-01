@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Object-freezer" tests="1" assertions="5" failures="1" errors="0" time="0.023614">
-    <testsuite name="StackTest" file="/home/vinicius/Object-Freezer/tests/StackTest.php" tests="1" assertions="5" failures="1" errors="0" time="0.023614">
-      <testcase name="testPushAndPop" class="StackTest" file="/home/vinicius/Object-Freezer/tests/StackTest.php" line="5" assertions="5" time="0.023614">
-        <failure type="PHPUnit_Framework_ExpectationFailedException">StackTest::testPushAndPop
-Failed asserting that false is true.
-
-/home/vinicius/Object-Freezer/tests/StackTest.php:13
-</failure>
-      </testcase>
+  <testsuite name="Object-freezer" tests="1" assertions="4" failures="0" errors="0" time="0.002894">
+    <testsuite name="StackTest" file="/home/vinicius/Object-Freezer/tests/StackTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.002894">
+      <testcase name="testPushAndPop" class="StackTest" file="/home/vinicius/Object-Freezer/tests/StackTest.php" line="5" assertions="4" time="0.002894"/>
     </testsuite>
   </testsuite>
 </testsuites>
